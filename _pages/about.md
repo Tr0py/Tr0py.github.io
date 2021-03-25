@@ -11,10 +11,10 @@ redirect_from:
 <style>
 .h_iframe iframe {
 	    width:100%;
-	    height:900px;
+	    height:2000px;
 }
 .h_iframe {
-	    height:900px;
+	    height:2000px;
 	    width:100%;
 }
 </style>
