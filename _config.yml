@@ -81,20 +81,20 @@ analytics:
 # Site Author
 author:
   name             : "Ziyi"
-  avatar           : "photo-2020-grad.jpg"
+  avatar           : "avatar2021.jpeg"
   bio              : "Code for fun!"
   location         : "Tianjin, CN"
   employer         : "Nankai University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=bVSQ0Y4AAAAJ&hl=en"
-  email            : "echo @gmail.com | sed 's/^/troppinz/"
+  email            : "echo @gmail.com | sed 's/^/troppingz/"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/ziyi.zhao.566"
+  facebook         : "ziyi.zhao.566"
   foursquare       :
   github           : "Tr0py"
   google_plus      :
@@ -174,19 +174,19 @@ kramdown:
 
 
 # Collections
-collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+# collections:
+  #  teaching:
+  #    output: false
+  #    permalink: /:collection/:path/
+  #  publications:
+  #    output: false
+  #    permalink: /:collection/:path/
+  #  portfolio:
+  #    output: false
+  #    permalink: /:collection/:path/
+  #  talks:
+  #    output: false
+  #    permalink: /:collection/:path/
 
 
 # Defaults
@@ -209,41 +209,41 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+        #  # _teaching
+        #  - scope:
+        #      path: ""
+        #      type: teaching
+        #    values:
+        #      layout: single
+        #      author_profile: true
+        #      share: true
+        #      comments: true
+        #  # _publications
+        #  - scope:
+        #      path: ""
+        #      type: publications
+        #    values:
+        #      layout: single
+        #      author_profile: true
+        #      share: true
+        #      comments: true
+        #  # _portfolio
+        #  - scope:
+        #      path: ""
+        #      type: portfolio
+        #    values:
+        #      layout: single
+        #      author_profile: true
+        #      share: true
+        #      comment: true
+        #  # _talks
+        #  - scope:
+        #      path: ""
+        #      type: talks
+        #    values:
+        #      layout: talk
+        #      author_profile: true
+        #      share: true
 
 # Sass/SCSS
 sass:
