@@ -3,9 +3,11 @@ main:
   - title: "Home"
     url: /
 
-  - title: "Blog Posts"
+  - title: "Blog"
     url: /year-archive/
 
   - title: "Publications"
     url: /publications/
 
+  - title: "Projects"
+    url: /portfolio/
