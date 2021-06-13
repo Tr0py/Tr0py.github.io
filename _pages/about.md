@@ -19,13 +19,15 @@ redirect_from:
 }
 </style>
 <script>
+document.getElementById('idx').contentDocument.location.reload(true);
   function resizeIframe(obj) {
     /*obj.style.height = obj.contentWindow.document.documentElement.scrollHeight + 'px';*/
     obj.style.height = '100px';
+document.getElementById('idx').contentDocument.location.reload(true);
   }
 </script>
 
-<div class="h_iframe">
+<div class="h_iframe" id="idx">
     <iframe 
 		src="https://tr0py.github.io/WebCV" 
 		frameborder="0" 
