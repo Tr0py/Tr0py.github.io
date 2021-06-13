@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ziyi Zhao's Homepage"
 title_separator          : "-"
 name                     : &name "Ziyi Zhao"
-description              : &description "Research Assistant @ Nankai University"
+description              : &description "Ph.D. Student at Rice University"
 url                      : https://tr0py.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Tr0py/tr0py.github.io"
@@ -83,8 +83,8 @@ author:
   name             : "Ziyi"
   avatar           : "avatar2021.jpeg"
   bio              : "Code for fun!"
-  location         : "Tianjin, CN"
-  employer         : "Nankai University"
+  location         : 
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=bVSQ0Y4AAAAJ&hl=en"
   email            : "echo @gmail.com | sed 's/^/troppingz/"
