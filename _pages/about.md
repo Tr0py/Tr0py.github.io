@@ -35,5 +35,3 @@ document.getElementById('idx').contentDocument.location.reload(true);
 	>
 	</iframe>
 </div>
-
-Updated June 2021.
