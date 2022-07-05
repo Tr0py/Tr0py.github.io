@@ -7,7 +7,7 @@ tags:
   - Vim
 ---
 
-## Problem 
+## Problem: Vim searching highlight is annoying
 
 When you do a search in vim, all the matching strings would be highlighted, even
 **after** the search.  This could be annoying.
