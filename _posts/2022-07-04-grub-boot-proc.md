@@ -41,3 +41,6 @@ where the `/dev/*` should point to the efi partition.
 2. Fix `grub.cfg` using `update-grub` or `grub-mkconfig -o /boot/grub/grub.cfg`.
 
 
+### References
+* [Grub Manual Boot](https://www.linuxfoundation.org/blog/classic-sysadmin-how-to-rescue-a-non-booting-grub-2-on-linux/)
+* [Fixing Grub when Grub isn't loading the config file](https://bbs.archlinux.org/viewtopic.php?id=258719)
