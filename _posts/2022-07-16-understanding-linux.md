@@ -6,6 +6,14 @@ tags:
 
 Resource recommandation for understanding Linux.
 
+---
+
+**TL;DR**: Personally, I recommend to read
+the book ["Understanding the Linux Virtual Memory Manager"](https://www.kernel.org/doc/gorman/html/understand/) 
+and the source code.
+
+---
+
 **Crash course**: [Linux Kernel Labs](https://linux-kernel-labs.github.io/) provides 
 a quick overview about Linux subsystems. 
 
