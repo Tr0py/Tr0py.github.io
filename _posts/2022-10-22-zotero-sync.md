@@ -19,7 +19,9 @@ another cloud storage service)
 	2. Sync only attachment files using existing cloud service. (doesn't require
 WebDAV support!)
 
-![zotero storage](../images/2022-zotero-storage.jpg)
+|![zotero storage after](../images/2022-zotero-storage.jpg)|
+|:--:|
+|Figure 1: Zotero storage is used up|
 
 ### Solution
 
@@ -45,6 +47,9 @@ ln -s /Users/<username>/Library/CloudStorage/OneDrive/Zotero/sync/storage ~/Zote
 Done!  Your file is synced by your cloud service provider and you can free up
 your Zotero cloud storage now!
 
+|![zotero storage after](../images/2022-zotero-storage-2.jpg)|
+|:--:|
+|Figure 2: Zotero stroage is freed after sync|
 
 ### References
 
