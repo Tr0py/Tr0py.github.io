@@ -12,7 +12,8 @@ redirect_from:
 > Here are some interesting people. ;)
 
 
-* [JerryMouse](https://jerrymousez.github.io/) 
+* [Ziyi Zhou](https://zhouziyi1.github.io)
+* [JerryMouse](https://jerrymousez.github.io/)
 * [Tiancheng Xu](https://tcxxxx.github.io/)
 
 > Here are some interesting links.
