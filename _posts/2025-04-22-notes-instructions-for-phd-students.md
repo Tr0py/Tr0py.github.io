@@ -1,5 +1,9 @@
-# "Instructions for PhD Students" Distilled: Compete, Write, Present
-
+---
+title: '"Instructions for PhD Students" Distilled: Compete, Write, Present'
+tags:
+  - phd
+  - notes
+---
 
 I just read ["Instructions for PhD Students"](https://edisonchan-szu.github.io/Instructions_for_PhD_Students.pdf) by Dimitris Papadias (HKUST) and took notes to record and share insights with fellow PhD students—hope this helps.
 
