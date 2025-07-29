@@ -1,5 +1,5 @@
 ---
-title: READ_ONCE and WRITE_ONCE in Linux'
+title: 'READ_ONCE and WRITE_ONCE in Linux'
 tags:
   - notes
   - linux
