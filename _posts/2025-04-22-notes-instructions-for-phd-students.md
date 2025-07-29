@@ -27,7 +27,7 @@ I just read ["Instructions for PhD Students"](https://edisonchan-szu.github.io/I
 
 **Extra tips:**
 
-- If you can't explain it simply, you likely don't understand it fully. Learn thoroughly or skip that part of your presentation.
+- **If you can't explain it simply, you likely don't understand it fully.** (super true!!!!) Learn thoroughly or skip that part of your presentation.
 - Audience understanding is your responsibility—not theirs.
 - Never assume your audience knows something; always provide complete logic.
 - Papers get accepted based on the importance and innovation of problems, not merely solutions.
