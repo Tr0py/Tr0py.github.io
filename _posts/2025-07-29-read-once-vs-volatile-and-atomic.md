@@ -1,5 +1,5 @@
 ---
-title: '`READ_ONCE` and `WRITE_ONCE` VS `volatile` and `atomic`'
+title: READ_ONCE and WRITE_ONCE in Linux'
 tags:
   - notes
   - linux
